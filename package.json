@@ -1,0 +1,19 @@
+{
+  "name": "tododemo",
+  "version": "0.0.1",
+  "description": "test2021v1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamdd99/https---github.com-lamdd99-tododemo.git"
+  },
+  "author": "",
+  "license": "MIT,123",
+  "bugs": {
+    "url": "https://github.com/lamdd99/https---github.com-lamdd99-tododemo/issues"
+  },
+  "homepage": "https://github.com/lamdd99/https---github.com-lamdd99-tododemo#readme"
+}
